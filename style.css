@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     
+    
 
 }
 header {
@@ -20,6 +21,7 @@ header {
 html {
 
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 .container {
