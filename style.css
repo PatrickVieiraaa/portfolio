@@ -348,12 +348,13 @@ span {
 
 .experiencia {
 
-    padding: 300px 300px;
+    padding: 300px 200px;
     background-color: #1d1c1c;
     text-align: center;
     color: #ffc401;
     font-family: 'poppins';
     cursor: pointer;
+    
     
 }
 .experiencia h2 {
